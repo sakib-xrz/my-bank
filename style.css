@@ -1,0 +1,53 @@
+body{
+    padding: 100px;
+}
+
+.info-box, .col-md-4{
+    padding: 40px;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.amount-area{
+    display: none;
+}
+
+.amount-area h1,h5{
+    font-weight: bold;
+}
+
+.amount-area h1{
+    font-size: 50px;
+}
+
+.amount-area .col{
+    width: 27%;
+}
+
+.amount-area .card{
+    border-radius: 10px;
+}
+
+.card-body {
+    padding: 25px 25px;
+}
+
+.deposit{
+    background-color: #593FBD;
+    color: #fff;
+}
+
+.withdraw{
+    background-color: #E3896D;
+    color: #fff;
+}
+
+.balance{
+    background-color: #E19604;
+    color: #fff;
+}
+
+.col-md-4{
+    width: 40%;
+}
